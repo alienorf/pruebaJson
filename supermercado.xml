@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <supermercados>
+         <carrefour>
+             <dirección>Carrer de Francia 14, 08022 Barcelona</dirección>
+             <geolocalisacion>41.4058658,2.1915486,15</geolocalisacion>
+             <codigoID>174367328</codigoID>
+             <carniceria>
+                 <nombre>Pechuga de pollo Carrefour 1,2 kg aprox</nombre>
+                 <descripcion>Denominación legal: Pechuga de pollo</descripcion>
+                 <origen>España</origen>
+                 <perecedero>true</perecedero>
+                 <ecologico>false</ecologico>
+                 <transportefrigorifico>true</transportefrigorifico>
+                 <preciosinoferta>7.02</preciosinoferta>
+                 <preciooferta>6.9</preciooferta>
+                 <iniciooferta>19/3/2022 00:00 a.m.</iniciooferta>
+                 <finaloferta>indefinido</finaloferta>
+                 <unidades>637</unidades>
+             </carniceria>
+             <carniceria>
+                 <nombre>Pechuga de pollo ecológica Carrefour Bio 500 g aprox</nombre>
+                 <descripcion>Crianza totalmente natural. Carne ecológica certificada.</descripcion>
+                 <origen>España</origen>
+                 <perecedero>true</perecedero>
+                 <ecologico>false</ecologico>
+                 <transportefrigorifico>true</transportefrigorifico>
+                 <preciosinoferta>7.02</preciosinoferta>
+                 <preciooferta>6.9</preciooferta>
+                 <iniciooferta>11/2/2022 00:00 a.m.</iniciooferta>
+                 <finaloferta>01/04/2022 07:00 pm</finaloferta>
+                 <unidades>637</unidades>
+             </carniceria>
+             <fruteria>
+                 <nombre>Platanos </nombre>
+                 <descripcion>Banana a granel 1 Kg aprox</descripcion>
+                 <origen>Costarica</origen>
+                 <perecedero>true</perecedero>
+                 <ecologico>false</ecologico>
+                 <transportefrigorifico>false</transportefrigorifico>
+                 <preciosinoferta>7.02</preciosinoferta>
+                 <unidades>637</unidades>
+             </fruteria>
+             <fruteria>
+                 <nombre>Manzana roja Carrefour</nombre>
+                 <descripcion>Manzana roja Carrefour 1,5 kg </descripcion>
+                 <origen>Francia</origen>
+                 <perecedero>true</perecedero>
+                 <ecologico>false</ecologico>
+                 <transportefrigorifico>false</transportefrigorifico>
+                 <preciosinoferta>2.97</preciosinoferta>
+                 <preciooferta>2.45</preciooferta>
+                 <iniciooferta>15/3/2022 00:00 a.m.</iniciooferta>
+                 <finaloferta>15/04/2022 07:00 p.m.</finaloferta>
+                 <unidades>637</unidades>
+             </fruteria>
+         </carrefour>
+     </supermercados>
+     <amettler>
+         <dirección>Av. de Castell d'Aro, 46, 17249 Platja d'Aro</dirección>
+         <geolocalisacion>41.817453,3.062244,15</geolocalisacion>
+         <codigoID>324</codigoID>
+         <carniceria>
+             <nombre>Jamón serrano cortado Casa Ametller 100g</nombre>
+             <descripcion>Jamón serrano con un sabor suave, poco salado y aroma agradable. La textura es homogénea y poco fibrosa</descripcion>
+             <origen>España</origen>
+             <perecedero>true</perecedero>
+             <ecologico>false</ecologico>
+             <transportefrigorifico>true</transportefrigorifico>
+             <preciosinoferta>2.59</preciosinoferta>
+             <preciooferta>2.49</preciooferta>
+             <iniciooferta>19/3/2022 00:00 a.m.</iniciooferta>
+             <finaloferta>21/4/2022 00:00 a.m.</finaloferta>
+             <unidades>637</unidades>
+         </carniceria>
+         <carniceria>
+             <nombre>Pechuga de pollo ecológica Carrefour Bio 500 g aprox</nombre>
+             <descripcion>Crianza totalmente natural. Carne ecológica certificada.</descripcion>
+             <origen>España</origen>
+             <perecedero>true</perecedero>
+             <ecologico>false</ecologico>
+             <transportefrigorifico>true</transportefrigorifico>
+             <preciosinoferta>7.02</preciosinoferta>
+             <preciooferta>6.9</preciooferta>
+             <iniciooferta>11/2/2022 00:00 a.m.</iniciooferta>
+             <finaloferta>10/04/2022 07:00 pm</finaloferta>
+             <unidades>637</unidades>
+         </carniceria>
+         <fruteria>
+             <nombre>Platanos </nombre>
+             <descripcion>Banana a granel 1 Kg aprox</descripcion>
+             <origen>Costarica</origen>
+             <perecedero>true</perecedero>
+             <ecologico>false</ecologico>
+             <transportefrigorifico>false</transportefrigorifico>
+             <preciosinoferta>1.25</preciosinoferta>
+             <unidades>67333</unidades>
+         </fruteria>
+         <fruteria>
+             <nombre>Limon ecologico</nombre>
+             <descripcion>Limón ecológico Carrefour Bio 500 g</descripcion>
+             <origen>España</origen>
+             <perecedero>true</perecedero>
+             <ecologico>true</ecologico>
+             <transportefrigorifico>false</transportefrigorifico>
+             <preciosinoferta>1.47</preciosinoferta>
+             <preciooferta>1.35</preciooferta>
+             <iniciooferta>11/2/2022 00:00 a.m.</iniciooferta>
+             <finaloferta>17/04/2022 07:00 pm</finaloferta>
+         </fruteria>
+     </amettler>
+ </root>
